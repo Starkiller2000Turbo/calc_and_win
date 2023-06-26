@@ -29,7 +29,7 @@ source venv/bin/activate
 Запустить проект:
 
 ```
-python3 main.py runserver
+python3 main.py
 ```
 
 ### Авторы:
